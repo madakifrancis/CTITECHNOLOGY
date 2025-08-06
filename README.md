@@ -1,4 +1,4 @@
- CTITECHNOLOGY
+ CTI-TECHNOLOGY
 CTI-TECHNOLOGY:the tripartite  sustainable in business and education. 
  1. CTI-TECHNOLOGY College of Technicians     | ICT Job Training                      | **10 ICT Technicians:**<br>1. Network Engineer<br>2. Systems Administrator<br>3. Cybersecurity Analyst<br>4. Database Administrator<br>5. Cloud Solutions Architect<br>6. IT Support Specialist<br>7. Software Developer<br>8. Data Analyst<br>9. DevOps Engineer<br>10. Web Developer |
 | 2. CTI-TECHNOLOGY in Businesses              | Business Skills for Technicians       | **10 Businesses Technicians Can Learn:**<br>1. E-Commerce<br>2. Digital Marketing<br>3. FinTech<br>4. HealthTech<br>5. EdTech<br>6. Retail Management Systems<br>7. Manufacturing Automation<br>8. Logistics/Transport Tech<br>9. Hospitality IT<br>10. Real Estate Tech             |
